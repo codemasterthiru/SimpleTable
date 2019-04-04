@@ -1,2 +1,0 @@
-# SimpleTable
-Created with CodeSandbox
